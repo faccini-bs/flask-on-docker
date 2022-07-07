@@ -33,3 +33,6 @@ Uses gunicorn + nginx.
     ```
 
     Test it out at [http://localhost:1337](http://localhost:1337). No mounted folders. To apply changes, the image must be re-built.
+    
+ ## Add certificate guide
+ [Here](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
