@@ -36,3 +36,6 @@ Uses gunicorn + nginx.
     
  ## Add certificate guide
  [Here](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+ 
+ ## Extending functionality
+ [Here](https://towardsdatascience.com/how-to-deploy-ml-models-using-flask-gunicorn-nginx-docker-9b32055b3d0)
